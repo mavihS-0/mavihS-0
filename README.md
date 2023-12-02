@@ -24,7 +24,7 @@
   <li> 👨‍🎓 Student at VIT, Chennai, pursuing B.Tech in Computer Science and Engineering</li>
   <li> 📱 Current learning Flutter and trying to find a footing in App Development</li>
   <li> 🤝 I’m looking to collaborate on App Development </li>
-  <li> 👨‍🎨 Member of GDSC and Open Source Programming club </li>
+  <li> 👨‍🎨 President of Open Source Programming club </li>
 </ul>
 <div align="center">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="75%"/>
