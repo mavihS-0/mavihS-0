@@ -22,7 +22,7 @@
 </h2>
 <ul>
   <li> 👨‍🎓 Student at VIT, Chennai, pursuing B.Tech in Computer Science and Engineering</li>
-  <li> 📱 Current learning Flutter and trying to find a footing in App Development</li>
+  <li> 📱 Flutter, REST Api (Springboot, Flask and JS), React, Database Developer</li>
   <li> 🤝 I’m looking to collaborate on App Development </li>
   <li> 👨‍🎨 President of Open Source Programming club VIT C </li>
 </ul>
